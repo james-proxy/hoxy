@@ -1,5 +1,5 @@
 {
-  "name": "hoxy",
+  "name": "joxy",
   "version": "3.3.0",
   "author": "Greg Reimer <gregreimer@gmail.com>",
   "description": "Web-hacking proxy API for node",
